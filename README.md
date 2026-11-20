@@ -10,10 +10,10 @@
 
 一款开源的 Android 广告自动跳过工具。基于无障碍服务，通用引擎开箱即用，顽固广告可用悬浮窗录制规则。数据全部存本机，不联网。
 
-https://img.shields.io/badge/Android-7.0%2B-green
-https://img.shields.io/badge/Kotlin-100%25-blue
-https://img.shields.io/badge/License-MIT-yellow
-https://img.shields.io/badge/No%20Network-100%25%20Local-brightgreen
+![Android](https://img.shields.io/badge/Android-7.0%2B-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Offline](https://img.shields.io/badge/No%20Network-100%25%20Local-brightgreen)
 
 ---
 
