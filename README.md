@@ -1,3 +1,11 @@
+<img width="1080" height="2340" alt="S61120-15590015_com kuku qingtiao" src="https://github.com/user-attachments/assets/10b9de3b-8031-4bf4-8722-5705587feb56" />
+<img width="1080" height="2340" alt="S61120-11153009_com kuku qingtiao" src="https://github.com/user-attachments/assets/8c856317-94e0-4d6b-9225-1645134f85aa" />
+<img width="919" height="909" alt="1794977341243(1)" src="https://github.com/user-attachments/assets/0ada27ef-7a61-420b-a0d5-54cba0e5603f" />
+<img width="1536" height="1536" alt="1794977341243" src="https://github.com/user-attachments/assets/ffbdd562-67a9-46ce-a0b5-0ddda6ad2b29" />
+<img width="512" height="512" alt="IMG_20261118_125208" src="https://github.com/user-attachments/assets/091529c3-5afb-45b4-91e8-bdbf32f32ec2" />
+<img width="1536" height="1536" alt="1794978306559" src="https://github.com/user-attachments/assets/2223e12f-b431-481c-88b6-05234a3afb20" />
+<img width="1536" height="1536" alt="1794978434594(1)" src="https://github.com/user-attachments/assets/a84ed160-c419-43b4-986a-0c47301f3e3b" />
+<img width="1080" height="2340" alt="S61120-13420852_bin mt plus canary" src="https://github.com/user-attachments/assets/9e80ccc2-5c08-4a66-a6d8-aed0665eef8b" />
 麻雀轻跳 (Sparrow Skip)
 
 一款开源的 Android 广告自动跳过工具。基于无障碍服务，通用引擎开箱即用，顽固广告可用悬浮窗录制规则。数据全部存本机，不联网。
